@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    margin: 0px;
+}
+
+.ObjectEditor {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 8px;
+}
+
+.ObjectEditor-Field {
+    display: block;
+    margin-bottom: 8px;
+}
